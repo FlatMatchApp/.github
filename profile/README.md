@@ -2,7 +2,7 @@
 
 Trabajo práctico grupal de la materia Gestión de Sistemas de Información — FIUBA (Grupo 07).
 
-App de búsqueda de inmuebles con matching personalizado, al estilo swipe.
+App de búsqueda de inmuebles con matching personalizado con formato swipe.
 
 ## Integrantes
 
